@@ -10,6 +10,7 @@ need:
     significance level
     critical value
     2 tailed test, left-tailed, or right-tailed?
+    n greater than 30
 
 ''''
 
